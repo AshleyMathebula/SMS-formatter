@@ -1,6 +1,6 @@
 # SMS Formatter
 
-A simple Python tool to read phone numbers, short codes, or text entries from a file and format them into a standardized output suitable for SMS or system processing.
+A simple Whitelisting Python tool to read phone numbers, short codes, or text entries from a file and format them into a standardized output suitable for SMS or system processing.
 
 ---
 
